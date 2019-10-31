@@ -1,0 +1,40 @@
+td {
+    border:1px dotted blue;
+    font-family: Calibri;
+    color:darkgray;
+    font-size: 16px;
+    text-align: center;
+}
+.searchCity{
+    font-family:Calibri;
+    color: blue;
+    font-size:20px;
+    font-weight:900;
+}
+.rain{
+    font-family: Calibri;
+    color:gray;
+    font-size: 15px;
+}
+.temp{
+    font-family: Calibri;
+    color:blue;
+    font-size: 25px;
+    position: absolute;
+    top:32px;
+}
+.tempimg{
+    position: relative;
+}
+.image{
+    position: absolute;
+    top:0px;
+    left:80px;
+}
+.weatherTbl{
+    position:relative;
+    top:100px;
+}
+.searchRes{
+    display:none;
+}
